@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.aishwarya.monvoix.MainActivity">
+    <item
+        android:id="@+id/action_directory"
+        android:orderInCategory="100"
+        android:title="Signs Directory"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_aboutus"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_faq"
+        android:orderInCategory="100"
+        android:title="FAQ"
+        app:showAsAction="never" />
+</menu>

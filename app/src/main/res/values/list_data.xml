@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>Alphabets</item>
+        <item>Baby Sign Language</item>
+        <item>Color:Black</item>
+        <item>Color:Orange</item>
+        <item>Color:Pink</item>
+        <item>Color:Purple</item>
+        <item>Color:Red</item>
+        <item>Color:White</item>
+        <item>Color:Yellow</item>
+        <item>Common Word:Bath</item>
+        <item>Common Word:Bed</item>
+        <item>Common Word:Book</item>
+        <item>Common Word:Bubbles</item>
+        <item>Common Word:Hair</item>
+        <item>Common Word:No</item>
+        <item>Common Word:Yes</item>
+        <item>Greeting:Good</item>
+        <item>Greeting:Good Bye</item>
+        <item>Greeting:Hello</item>
+        <item>Greeting:I Love You</item>
+        <item>Greeting:Morning</item>
+        <item>Greeting:Nice To Meet You</item>
+        <item>Greeting:Night</item>
+        <item>Greeting:Please</item>
+        <item>Greeting:Thank You</item>
+        <item>Numbers</item>
+
+
+
+
+    </string-array>
+</resources>
