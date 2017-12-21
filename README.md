@@ -33,7 +33,7 @@ Conclusion:
 2. Add sign-builder that allows users to crowdsource-signs to provide a more accurate translation.
 3. Add a feature where a deaf child can learn hand gestures of a sign language using this
 application.
-4. Ability to provide different sign language modes -region based.
+4. Ability to provide different sign language modes.
 5. User can get the freedom to add his gesture into the database.
 
 8.3 Inference
