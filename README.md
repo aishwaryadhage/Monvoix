@@ -17,6 +17,30 @@ B.	System Architecture
 MonVoix uses:
 1.	Android Studio for the User Interface.
 2.	OpenCV Python for image processing.
-3.	SQLite Manager for storing training images and their identification parameters.
+3.	SVM for identifying and classifying the images.
 
+Conclusion:
+8.1 Limitations
+1. Camera quality should be good enough to capture hand gestures correctly.
+2. Hand movements speed while capturing hand gestures of user should not be faster than limit set.
+3. Response time of the application may vary.
+4. Images or videos captured may not be under consistent lighting, or in same location.
+5. Complex backgrounds may interfere with the capturing.
+6. Crooked hands may create erroneous results.
 
+8.2 Future work
+1. Decrease the response time of the system and make the system faster.
+2. Add sign-builder that allows users to crowdsource-signs to provide a more accurate translation.
+3. Add a feature where a deaf child can learn hand gestures of a sign language using this
+application.
+4. Ability to provide different sign language modes -region based.
+5. User can get the freedom to add his gesture into the database.
+
+8.3 Inference
+We have observed that an acoustically challenged person has to rely completely on a human
+interpreter for an active communication and create a drift from leading a normal life in the society.
+Thus, the proposed android application will not only make them independent and help in reducing
+the social barriers but also boost their moral. Personalizing the gestures according to the user for
+swift performance will further improve the efficiency of the application. This pocket application can
+find their application not only for SLR but also be exploited in other domains like mobile gaming
+and virtual reality where in-built movements can augment the visual outcomes.
