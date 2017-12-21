@@ -1,4 +1,5 @@
 # Monvoix-Android Application for Hearing Impaired People
+Undergraduate Final Year Project-(August 2016-March 2017)
 
 The main focus of our application is:
 1.	To minimizing the number of errors whiles capturing the hand gestures so as to improve robustness.
