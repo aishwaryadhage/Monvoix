@@ -1,6 +1,14 @@
 # Monvoix-Android Application for Hearing Impaired People
 Undergraduate Final Year Project-(August 2016-March 2017)
 
+We have observed that an acoustically challenged person has to rely completely on a human
+interpreter for an active communication and create a drift from leading a normal life in the society.
+Thus, the proposed android application will not only make them independent and help in reducing
+the social barriers but also boost their moral. Personalizing the gestures according to the user for
+swift performance will further improve the efficiency of the application. This pocket application can
+find their application not only for SLR but also be exploited in other domains like mobile gaming
+and virtual reality where in-built movements can augment the visual outcomes.
+
 The main focus of our application is:
 1.	To minimizing the number of errors whiles capturing the hand gestures so as to improve robustness.
 2.	It is a real time vision based system that provides flexibility to user has higher portability.
@@ -12,7 +20,7 @@ A.	Features:
 3.	Convert received text to audio.
 4.	Convert audio to text and send a message.
 5.	A tutorial gallery which displays the sign language for a particular word.
-B.	System Architecture
+
 
 MonVoix uses:
 1.	Android Studio for the User Interface.
@@ -20,7 +28,8 @@ MonVoix uses:
 3.	SVM for identifying and classifying the images.
 
 Conclusion:
-8.1 Limitations
+
+Limitations
 1. Camera quality should be good enough to capture hand gestures correctly.
 2. Hand movements speed while capturing hand gestures of user should not be faster than limit set.
 3. Response time of the application may vary.
@@ -28,7 +37,7 @@ Conclusion:
 5. Complex backgrounds may interfere with the capturing.
 6. Crooked hands may create erroneous results.
 
-8.2 Future work
+Future work
 1. Decrease the response time of the system and make the system faster.
 2. Add sign-builder that allows users to crowdsource-signs to provide a more accurate translation.
 3. Add a feature where a deaf child can learn hand gestures of a sign language using this
@@ -36,11 +45,4 @@ application.
 4. Ability to provide different sign language modes.
 5. User can get the freedom to add his gesture into the database.
 
-8.3 Inference
-We have observed that an acoustically challenged person has to rely completely on a human
-interpreter for an active communication and create a drift from leading a normal life in the society.
-Thus, the proposed android application will not only make them independent and help in reducing
-the social barriers but also boost their moral. Personalizing the gestures according to the user for
-swift performance will further improve the efficiency of the application. This pocket application can
-find their application not only for SLR but also be exploited in other domains like mobile gaming
-and virtual reality where in-built movements can augment the visual outcomes.
+
