@@ -1,5 +1,6 @@
 # Monvoix-Android Application for Hearing Impaired People
 Undergraduate Final Year Project-(August 2016-March 2017)
+Contributers: Aishwarya Dhage, Aishwarya Danoji, Rachana Kamat, Priya Puranik
 
 We have observed that an acoustically challenged person has to rely completely on a human
 interpreter for an active communication and create a drift from leading a normal life in the society.
